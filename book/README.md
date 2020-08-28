@@ -5,3 +5,4 @@ Below are books organized by when I started reading them. Status of the book can
 
 ## 2020
 - [[book/Brene Brown - Daring Greatly]]
+- [[book/Chris Hadfield - An Astronaut's Guide]]
